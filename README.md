@@ -11,7 +11,7 @@ Recurrent fast-weight memories and selective state-space models compress a growi
 
 **Date:** March 9, 2026
 
-[[Project Page](https://github.com/yifanzhang-pro/fast-weight-attention)] [[Webpage](https://yifanzhang-pro.github.io/fast-weight-attention)] 
+[[Project Page](https://github.com/yifanzhang-pro/fast-weight-attention)] [[Webpage](https://yifanzhang-pro.github.io/fast-weight-attention)] [[Paper](https://yifanzhang-pro.github.io/fast-weight-attention/fast-weight-attention.pdf)] 
 
 
 ![](./Falcon.png)
