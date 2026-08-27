@@ -9,6 +9,8 @@
 
 Recurrent fast-weight memories and selective state-space models compress a growing context into a bounded state, their writes can therefore be viewed as online continual-learning rules.
 
+**Authors:** Yifan Zhang, Steve Ta, Jasper Zhang, Jichen Feng, Shuzhen Li, Yongxin Zhang, Yifeng Liu, Huizhuo Yuan, Mengdi Wang&dagger;, Quanquan Gu&dagger;, Andrew Chi-Chih Yao&dagger;
+
 **Date:** March 9, 2026
 
 [[Project Page](https://github.com/yifanzhang-pro/fast-weight-attention)] [[Webpage](https://yifanzhang-pro.github.io/fast-weight-attention)] [[Paper](https://yifanzhang-pro.github.io/fast-weight-attention/fast-weight-attention.pdf)] 
@@ -21,7 +23,7 @@ Recurrent fast-weight memories and selective state-space models compress a growi
 ```bibtex
 @article{zhang2026fast,
   title = {Fast Weight Attention for Continual Learning},
-  author = {FWA Authors},
+  author = {Zhang, Yifan and Ta, Steve and Zhang, Jasper and Feng, Jichen and Li, Shuzhen and Zhang, Yongxin and Liu, Yifeng and Yuan, Huizhuo and Wang, Mengdi and Gu, Quanquan and Yao, Andrew Chi-Chih},
   journal = {yifanzhang-pro.github.io},
   year = {2026},
   month = {March},
