@@ -1,5 +1,6 @@
 # Fast Weight Attention
 
+[![arXiv](https://img.shields.io/badge/arXiv-2608.27763-b31b1b.svg)](https://arxiv.org/abs/2608.27763) 
 [![Paper](https://img.shields.io/badge/Paper-b31b1b.svg)](https://yifanzhang-pro.github.io/fast-weight-attention/fast-weight-attention.pdf) 
 [![Website](https://img.shields.io/badge/Project-Website-blue)](https://yifanzhang-pro.github.io/fast-weight-attention) 
 [![License](https://img.shields.io/badge/License-Apache_2.0-yellow.svg)](https://opensource.org/licenses/Apache-2.0) 
@@ -13,7 +14,7 @@ Recurrent fast-weight memories and selective state-space models compress a growi
 
 **Date:** March 9, 2026
 
-[[Project Page](https://github.com/yifanzhang-pro/fast-weight-attention)] [[Webpage](https://yifanzhang-pro.github.io/fast-weight-attention)] [[Paper](https://yifanzhang-pro.github.io/fast-weight-attention/fast-weight-attention.pdf)] 
+[[arXiv](https://arxiv.org/abs/2608.27763)] [[Project Page](https://github.com/yifanzhang-pro/fast-weight-attention)] [[Webpage](https://yifanzhang-pro.github.io/fast-weight-attention)] [[Paper](https://yifanzhang-pro.github.io/fast-weight-attention/fast-weight-attention.pdf)] 
 
 
 ![](./Falcon.png)
@@ -24,9 +25,9 @@ Recurrent fast-weight memories and selective state-space models compress a growi
 @article{zhang2026fast,
   title = {Fast Weight Attention for Continual Learning},
   author = {Zhang, Yifan and Ta, Steve and Zhang, Jasper and Feng, Jichen and Li, Shuzhen and Zhang, Yongxin and Liu, Yifeng and Yuan, Huizhuo and Wang, Mengdi and Gu, Quanquan and Yao, Andrew Chi-Chih},
-  journal = {yifanzhang-pro.github.io},
+  journal = {arXiv preprint arXiv:2608.27763},
   year = {2026},
   month = {March},
-  url = "https://github.com/yifanzhang-pro/fast-weight-attention"
+  url = "https://arxiv.org/abs/2608.27763"
 }
 ```
