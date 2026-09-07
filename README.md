@@ -12,6 +12,8 @@ Recurrent fast-weight memories and selective state-space models compress a growi
 
 **Authors:** Yifan Zhang, Steve Ta, Jasper Zhang, Jichen Feng, Shuzhen Li, Yongxin Zhang, Yifeng Liu, Huizhuo Yuan, Mengdi Wang&dagger;, Quanquan Gu&dagger;, Andrew Chi-Chih Yao&dagger;
 
+**Venue:** ByteDance Seed Technical Report &middot; arXiv:2608.27763
+
 **Date:** March 9, 2026
 
 [[arXiv](https://arxiv.org/abs/2608.27763)] [[Project Page](https://github.com/yifanzhang-pro/fast-weight-attention)] [[Webpage](https://yifanzhang-pro.github.io/fast-weight-attention)] [[Paper](https://yifanzhang-pro.github.io/fast-weight-attention/fast-weight-attention.pdf)] 
