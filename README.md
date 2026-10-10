@@ -1,7 +1,6 @@
 # Fast Weight Attention
 
 [![arXiv](https://img.shields.io/badge/arXiv-2608.27763-b31b1b.svg)](https://arxiv.org/abs/2608.27763) 
-[![Paper](https://img.shields.io/badge/Paper-b31b1b.svg)](https://yifanzhang-pro.github.io/fast-weight-attention/fast-weight-attention.pdf) 
 [![Website](https://img.shields.io/badge/Project-Website-blue)](https://yifanzhang-pro.github.io/fast-weight-attention) 
 [![License](https://img.shields.io/badge/License-Apache_2.0-yellow.svg)](https://opensource.org/licenses/Apache-2.0) 
 [![Python 3.14+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/) 
